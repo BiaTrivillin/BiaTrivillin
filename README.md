@@ -4,7 +4,7 @@
 
 I'm twenty years old, I live in Brazil and I'm a beginner front-end developer!
 
-I've been exploring this world for a few months now. <br>
+I've been exploring this world for a few weeks now. <br>
 I learn something new every day... and I discover a new bug every 3 lines of code... 🤭
 
 <div align="center">
