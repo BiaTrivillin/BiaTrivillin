@@ -19,6 +19,7 @@ I learn something new every day... and I discover a new bug every 3 lines of cod
   <img align="center" alt="bia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="bia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" width="40" height="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="bia-figma"/>
+  <img align="center" width="40" height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"
 </div>
 
 ##
