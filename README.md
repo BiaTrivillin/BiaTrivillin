@@ -1,13 +1,18 @@
-## ✨ Hey, Dev! It’s good to see you here. ✨ 
-
-<!--<div style="display: inline_block">-->
+## ✨ Hey, Dev! It’s good to see you here. ✨
 
 ### ✨You can call me Bia!✨
 
-📌 I'm twenty years old, I live in Brazil and I'm a beginner front-end developer!
+<img align="right" width="400px" style="margin-top:-20px" src="avatar 1.png">
 
-I've been exploring this world for a few weeks now. <br>
-I learn something new every day... and I discover a new bug every 3 lines of code... 🤭
+<div>
+    
+    📌 I'm twenty years old, I live in Brazil 
+    and I'm a beginner front-end developer!
+
+    I've been exploring this world for a few weeks now. 
+    I learn something new every day... 
+    And I discover a new bug every 3 lines of code... 🤭
+</div>
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZreHJsZzQ0c21zNW8yNHZ3YXA0ZTc2bjk4eGU5Z3N3Ymx1bnI1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif">
@@ -35,7 +40,6 @@ I learn something new every day... and I discover a new bug every 3 lines of cod
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=biatrivillin&show_icons=true&locale=en&layout=compact" alt="biatrivillin" /></p>
 
 ## -->
-
 I'm probably now trying to fix bugs that I created when trying to fix another bug HAHA, but you can message me.<br>
 Find me on linkedin or send me an email.
 
@@ -44,6 +48,7 @@ Find me on linkedin or send me an email.
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+
 
 
 
