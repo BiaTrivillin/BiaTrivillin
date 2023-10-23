@@ -1,5 +1,7 @@
 ## ✨ Hey, Dev! It’s good to see you here. ✨ 
 
+<!--<div style="display: inline_block">-->
+
 ### ✨You can call me Bia!✨
 
 📌 I'm twenty years old, I live in Brazil and I'm a beginner front-end developer!
