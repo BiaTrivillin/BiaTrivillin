@@ -20,6 +20,8 @@
 
 ##
 
+<p><img align="right" width="400px" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs?username=biatrivillin&show_icons=true&locale=en&layout=compact" alt="biatrivillin" /></p>
+
 ### I'm learning:
 <div style="display: inline_block"><br>
   <img align="center" alt="bia-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,6 +31,8 @@
   <img align="center" width="40" height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"
 </div>
 
+
+
 ##
 
 ### I’m working on a 50 days intensive focused on HTML5, CSS3 e JavaScript! 
@@ -37,10 +41,9 @@
 
 ##
 
-<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=biatrivillin&show_icons=true&locale=en&layout=compact" alt="biatrivillin" /></p>
 
-## -->
-I'm probably now trying to fix bugs that I created when trying to fix another bug HAHA, but you can message me.<br>
+#### I'm probably now trying to fix bugs that I created when trying to fix another bug HAHA!
+But you can message me.<br> 
 Find me on linkedin or send me an email.
 
 <div> 
