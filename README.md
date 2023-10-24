@@ -20,7 +20,7 @@
 
 ##
 
-<p><img align="right" width="400px" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs?username=biatrivillin&show_icons=true&locale=en&layout=compact" alt="biatrivillin" /></p>
+<!--<p><img align="right" width="400px" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs?username=biatrivillin&show_icons=true&locale=en&layout=compact" alt="biatrivillin" /></p>-->
 
 ### I'm learning:
 <div style="display: inline_block"><br>
