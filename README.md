@@ -31,7 +31,7 @@
 
 ##
 
-### I’m doing a 50 days intensive focused on HTML5, CSS3 e JavaScript! 
+### I’m working on a 50 days intensive focused on HTML5, CSS3 e JavaScript! 
 
 <img src="http://i.countdownmail.com/2udstn.gif?id=$2y$10$@/1kZ0b*|URL:EMAIL|*" border="0" alt="countdownmail.com"/>
 
