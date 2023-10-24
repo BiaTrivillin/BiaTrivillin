@@ -1,4 +1,9 @@
-## ✨ Hey, Dev! It’s good to see you here. ✨
+<div align="center">
+  <img src="banner.png">
+</div>
+
+<!--## ✨ Hey, Dev! It’s good to see you here. ✨-->
+##
 
 ### ✨You can call me Bia!✨
 
