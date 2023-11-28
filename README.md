@@ -29,11 +29,11 @@
 
 ### I'm learning:
 <div style="display: inline_block"><br>
-  <img align="center" alt="bia-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="bia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="bia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" width="40" height="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="bia-figma"/>
-  <img align="center" width="40" height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"
+  <img align="center" alt="bia-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="bia-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="bia-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" width="40" height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="bia-figma"/>
+  <img align="center" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"
 </div>
 
 
