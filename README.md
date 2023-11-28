@@ -46,16 +46,22 @@
 
 ##
 
-
 #### I'm probably now trying to fix bugs that I created when trying to fix another bug HAHA!
-But you can message me.<br> 
-Find me on linkedin or send me an email.
 
+<div>
+  <img src="https://media4.giphy.com/media/PnpkimJ5mrZRe/giphy.gif?cid=ecf05e473tk1afq6a8ybnl2t9wer0td6k6r49onx7b8n1bep&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="300px" style="margin-top:-10px">
+</div>
+
+But you can message me!<br> 
+Find me on linkedin or send me an email:<br>
+  
 <div> 
   <a href="mailto:biatrivillin.code@gamil.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 </div>
+<br>
+
+
 
 
 
