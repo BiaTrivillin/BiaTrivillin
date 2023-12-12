@@ -33,16 +33,18 @@
   <img align="center" alt="bia-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="bia-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" width="40" height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="bia-figma"/>
-  <img align="center" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"
+  <img align="center" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"/>
+  <img>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
 </div>
 
 
 
 ##
 
-### I’m working on a 50 days intensive focused on HTML5, CSS3 e JavaScript! 
+### I’m working on a 20 days intensive focused on JavaScript and React! 
 
-<img src="http://i.countdownmail.com/2udstn.gif?id=$2y$10$@/1kZ0b*|URL:EMAIL|*" border="0" alt="countdownmail.com"/>
+<img src="http://i.countdownmail.com/2zu2sl.gif" border="0" width="350px" alt="countdownmail.com"/>
 
 ##
 
