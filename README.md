@@ -30,12 +30,18 @@
 ### I'm learning:
 <div style="display: inline_block"><br>
   <img align="center" alt="bia-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img>
   <img align="center" alt="bia-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img>
   <img align="center" alt="bia-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img>
   <img align="center" width="40" height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="bia-figma"/>
+  <img>
   <img align="center" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"/>
   <img>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img>
+  <img align="center" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="40" alt="react logo" />
 </div>
 
 
