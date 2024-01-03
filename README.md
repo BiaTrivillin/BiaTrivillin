@@ -42,17 +42,19 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img>
   <img align="center" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="40" alt="react logo" />
+  <img>
+  <img align="center" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" height="50"/>
 </div>
 
 
 
 ##
 
-### I’m working on a 20 days intensive focused on JavaScript and React! 
+<!-- ### I’m working on a 20 days intensive focused on JavaScript and React! 
 
 <img src="http://i.countdownmail.com/2zu2sl.gif" border="0" width="350px" alt="countdownmail.com"/>
 
-##
+## -->
 
 #### I'm probably now trying to fix bugs that I created when trying to fix another bug HAHA!
 
