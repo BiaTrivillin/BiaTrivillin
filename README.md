@@ -46,7 +46,10 @@
   <img align="center" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" height="50"/>
 </div>
 
+##
+<br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biaTrivillin&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
