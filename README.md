@@ -12,7 +12,7 @@
 <div>
     
     📌 I'm twenty years old, I live in Brazil 
-    and I'm a beginner front-end developer!
+    and I'm a front-end developer!
 
     I've been exploring this world for a few weeks now. 
     I learn something new every day... 
