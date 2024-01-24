@@ -14,7 +14,7 @@
     📌 I'm twenty years old, I live in Brazil 
     and I'm a front-end developer!
 
-    I've been exploring this world for a few weeks now. 
+    I've been exploring this world for a few months now. 
     I learn something new every day... 
     And I discover a new bug every 3 lines of code... 🤭
 </div>
