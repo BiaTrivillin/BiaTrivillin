@@ -74,7 +74,7 @@ Find me on linkedin or send me an email:<br>
 </div>
 <br>
 
-<!-- ![Snake animation](https://github.com/bia_Trivillin/bia_Trivillin/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/biaTrivillin/biaTrivillin/blob/output/github-contribution-grid-snake.svg)
 
 
 
