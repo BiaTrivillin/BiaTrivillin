@@ -17,7 +17,7 @@
     I learn something new every day... 
     And I discover a new bug every 3 lines of code... 🤭
 </div>
-
+<br>
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZreHJsZzQ0c21zNW8yNHZ3YXA0ZTc2bjk4eGU5Z3N3Ymx1bnI1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif">
 </div>
