@@ -28,6 +28,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=6B88AC&vCenter=true&random=false&width=250&height=30&lines=+TECHNOLOGIES)](https://git.io/typing-svg)
 <div style="display: inline_block">
+  <img align="center" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="40"/>
+  <img>
   <img align="center" alt="bia-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img>
   <img align="center" alt="bia-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
