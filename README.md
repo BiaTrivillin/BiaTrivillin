@@ -38,11 +38,11 @@
   <img>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img>
+  <img align="center" alt="bia-js" height="40" width="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+  <img>
   <img align="center" width="40" height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="bia-figma"/>
   <img>
   <img align="center" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"/>
-  <img>
-  <img align="center" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="40" alt="react logo" />
   <img>
   <img align="center" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" height="50"/>
 </div>
